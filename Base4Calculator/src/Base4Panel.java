@@ -2,7 +2,7 @@ import java.awt.FlowLayout;
 
 import javax.swing.JButton;
 import javax.swing.JPanel;
-
+//testing
 public class Base4Panel extends JPanel {
 	private Base4CalcState calc; // this object will actually do the calculating work
 	JButton zero, 
